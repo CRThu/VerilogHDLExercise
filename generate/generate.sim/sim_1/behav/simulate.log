@@ -1,0 +1,25 @@
+Vivado Simulator 2017.2
+Time resolution is 1 ps
+                   0 Main Sig = xx, Country Sig = xx, Car_on_cntry = 0
+                   5 Main Sig = 10, Country Sig = 00, Car_on_cntry = 0
+                 200 Main Sig = 10, Country Sig = 00, Car_on_cntry = 1
+                 205 Main Sig = 01, Country Sig = 00, Car_on_cntry = 1
+                 245 Main Sig = 00, Country Sig = 00, Car_on_cntry = 1
+                 275 Main Sig = 00, Country Sig = 10, Car_on_cntry = 1
+                 300 Main Sig = 00, Country Sig = 10, Car_on_cntry = 0
+                 305 Main Sig = 00, Country Sig = 01, Car_on_cntry = 0
+                 345 Main Sig = 10, Country Sig = 00, Car_on_cntry = 0
+                 500 Main Sig = 10, Country Sig = 00, Car_on_cntry = 1
+                 505 Main Sig = 01, Country Sig = 00, Car_on_cntry = 1
+                 545 Main Sig = 00, Country Sig = 00, Car_on_cntry = 1
+                 575 Main Sig = 00, Country Sig = 10, Car_on_cntry = 1
+                 600 Main Sig = 00, Country Sig = 10, Car_on_cntry = 0
+                 605 Main Sig = 00, Country Sig = 01, Car_on_cntry = 0
+                 645 Main Sig = 10, Country Sig = 00, Car_on_cntry = 0
+                 800 Main Sig = 10, Country Sig = 00, Car_on_cntry = 1
+                 805 Main Sig = 01, Country Sig = 00, Car_on_cntry = 1
+                 845 Main Sig = 00, Country Sig = 00, Car_on_cntry = 1
+                 875 Main Sig = 00, Country Sig = 10, Car_on_cntry = 1
+                 900 Main Sig = 00, Country Sig = 10, Car_on_cntry = 0
+                 905 Main Sig = 00, Country Sig = 01, Car_on_cntry = 0
+                 945 Main Sig = 10, Country Sig = 00, Car_on_cntry = 0

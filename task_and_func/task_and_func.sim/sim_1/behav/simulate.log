@@ -1,0 +1,5 @@
+Vivado Simulator 2017.2
+Time resolution is 1 ps
+                   5 compute_signed(vector) >= -3
+                  10 compute_signed(vector) < -3
+$finish called at time : 15 ns : File "D:/Code/Vivado/VerilogHDLExercise/task_and_func/task_and_func.srcs/sources_1/new/func_constant_signed.v" Line 56

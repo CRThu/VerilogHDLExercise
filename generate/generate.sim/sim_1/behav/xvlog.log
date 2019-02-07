@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Code/Vivado/VerilogHDLExercise/generate/generate.srcs/sources_1/new/sig_ctl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sig_ctl
+WARNING: [VRFC 10-2096] empty statement in sequential block [D:/Code/Vivado/VerilogHDLExercise/generate/generate.srcs/sources_1/new/sig_ctl.v:81]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Code/Vivado/VerilogHDLExercise/generate/generate.srcs/sim_1/new/sig_ctl_testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sig_ctl_testbench
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Code/Vivado/VerilogHDLExercise/generate/generate.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

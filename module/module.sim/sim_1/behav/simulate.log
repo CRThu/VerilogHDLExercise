@@ -1,0 +1,11 @@
+Vivado Simulator 2017.2
+Time resolution is 1 ps
+                   0 set = 0, reset = 0, q = x
+
+                   5 set = 0, reset = 1, q = 0
+
+                  10 set = 0, reset = 0, q = 0
+
+                  15 set = 1, reset = 0, q = 1
+
+$finish called at time : 20 ns : File "D:/Code/Vivado/VerilogHDLExercise/module/module.srcs/sim_1/new/testbench.v" Line 38

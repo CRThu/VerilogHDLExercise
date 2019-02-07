@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Code/Vivado/VerilogHDLExercise/practical_modeling/practical_modeling.srcs/sources_1/new/readmem.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module readmem
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Code/Vivado/VerilogHDLExercise/practical_modeling/practical_modeling.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

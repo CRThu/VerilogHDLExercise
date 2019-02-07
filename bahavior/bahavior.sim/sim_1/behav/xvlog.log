@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Code/Vivado/VerilogHDLExercise/bahavior/bahavior.srcs/sources_1/new/loop_statement.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module loop_statement
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Code/Vivado/VerilogHDLExercise/bahavior/bahavior.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

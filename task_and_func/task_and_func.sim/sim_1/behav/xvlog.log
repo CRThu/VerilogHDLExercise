@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Code/Vivado/VerilogHDLExercise/task_and_func/task_and_func.srcs/sources_1/new/func_constant_signed.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module func_constant_signed
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Code/Vivado/VerilogHDLExercise/task_and_func/task_and_func.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

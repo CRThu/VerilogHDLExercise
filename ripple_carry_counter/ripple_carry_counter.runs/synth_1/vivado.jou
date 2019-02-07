@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Sat Sep 29 16:52:36 2018
+# Process ID: 14700
+# Current directory: D:/Code/Vivado/VerilogHDLExercise/ripple_carry_counter/ripple_carry_counter.runs/synth_1
+# Command line: vivado.exe -log ripple_carry_counter.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ripple_carry_counter.tcl
+# Log file: D:/Code/Vivado/VerilogHDLExercise/ripple_carry_counter/ripple_carry_counter.runs/synth_1/ripple_carry_counter.vds
+# Journal file: D:/Code/Vivado/VerilogHDLExercise/ripple_carry_counter/ripple_carry_counter.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source ripple_carry_counter.tcl -notrace
